@@ -17,4 +17,4 @@ A modern, responsive resume website showcasing my professional experience and sk
 - Google Fonts
 
 ## Live Demo
-Visit the live website at: [https://doddisaisunil.github.io](https://doddisaisunil.github.io) 
+Visit the live website at: [https://saisunil32.github.io/resume-website](https://saisunil32.github.io/resume-website)
